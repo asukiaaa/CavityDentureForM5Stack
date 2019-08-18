@@ -1,5 +1,5 @@
 
-(rules PCB dentureRS485
+(rules PCB M5StackCavityDenture
   (snap_angle 
     fortyfive_degree
   )

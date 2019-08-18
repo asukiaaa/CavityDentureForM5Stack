@@ -15,7 +15,7 @@ LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=dentureRS485.net
+LastNetListRead=M5StackCavityDenture.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
