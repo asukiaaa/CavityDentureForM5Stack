@@ -1,6 +1,6 @@
 # M5StackCavityDenture
 
-A kicad project for denture for M5StackCavity.
+A kicad project for denture for [M5StackCavity](https://github.com/asukiaaa/M5StackCavity).
 
 ![M5StackCavityDenturePCBnew](/docs/M5StackCavityDenturePCBnew.png)
 
