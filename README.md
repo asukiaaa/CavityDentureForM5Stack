@@ -8,6 +8,8 @@ A kicad project for denture for M5StackCavity.
 
 Use this project as a template of KiCad to create your original denture.
 
+If you order PCB, 1mm thickness denture will good for M5StackCavity.
+
 # License
 
 MIT
