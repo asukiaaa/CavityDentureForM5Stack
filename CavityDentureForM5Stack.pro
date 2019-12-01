@@ -15,7 +15,7 @@ LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=M5StackCavityDenture.net
+LastNetListRead=CavityDentureForM5Stack.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0

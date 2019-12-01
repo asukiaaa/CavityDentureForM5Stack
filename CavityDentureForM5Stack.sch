@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:M5StackCavityDenture-cache
+LIBS:CavityDentureForM5Stack-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268

@@ -1,14 +1,14 @@
-# M5StackCavityDenture
+# CavityDentureForM5Stack
 
-A kicad project for denture for [M5StackCavity](https://github.com/asukiaaa/M5StackCavity).
+A kicad project for denture for [CavityForM5Stack](https://github.com/asukiaaa/CavityForM5Stack).
 
-![M5StackCavityDenturePCBnew](/docs/M5StackCavityDenturePCBnew.png)
+![CavityDentureForM5StackPCBnew](/docs/CavityDentureForM5StackPCBnew.png)
 
 # Usage
 
 Use this project as a template of KiCad to create your original denture.
 
-If you order PCB, 1mm thickness denture will good for M5StackCavity.
+If you order PCB, 1mm thickness denture will good for CavityForM5Stack.
 
 # License
 
